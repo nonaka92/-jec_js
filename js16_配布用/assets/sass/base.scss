@@ -1,0 +1,14 @@
+.fv {
+  width: 100%;
+  margin: 50px auto;
+  text-align: center;
+  h1 {
+    font-size: 32px;
+  }
+  &__para {
+    font-size: 20px;
+  }
+  &__count {
+    font-size: 14px;
+  }
+}
